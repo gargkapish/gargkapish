@@ -33,7 +33,6 @@ I'm more interested in understanding **how and why systems work** than simply ma
 ### Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -66,9 +65,9 @@ A web platform built for the Finanza Club at Rishihood University.
 ## Leadership & Experience
 
 ### Datacron Fest
-**Head of Outreach & Sponsorships**
+**Head of Outreach**
 
-Led external outreach, sponsorship initiatives, speaker acquisition, and attendee pipelines for Rishihood University's flagship data science fest.
+Led external outreach, speaker acquisition, and attendee pipelines for Rishihood University's flagship data science fest.
 
 ### Finanza Club
 **Core Member**
