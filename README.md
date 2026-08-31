@@ -56,9 +56,9 @@ Primary focus on algorithmic efficiency, graph theory, and dynamic programming i
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gargkapish&theme=tokyo-night&hide_border=true" alt="Kapish's Activity Graph" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargkapish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
