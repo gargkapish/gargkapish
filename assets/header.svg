@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc"><title id="title">Kapish Garg</title><desc id="desc">Kapish Garg — Backend &amp; DevOps engineer in the making / Two DSA problems a day, auto-logged to GitHub / Now building: a real-time chat app</desc><defs><style>
+.s{font-family:'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif}
+.m{font-family:'JetBrains Mono', 'SFMono-Regular', 'SF Mono', ui-monospace, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;white-space:pre}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+.glow{animation:breathe 7s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.78}50%{opacity:1}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s cubic-bezier(0,0,.2,1) infinite}
+@keyframes ping{0%{transform:scale(1);opacity:.75}80%,100%{transform:scale(2.6);opacity:0}}
+.cur{animation-name:var(--k)}
+@keyframes v0{0%{opacity:1}0.000%{opacity:1}33.372%{opacity:0}100%{opacity:0}}@keyframes t0{0%{transform:translateX(0)}0.000%{transform:translateX(0);animation-timing-function:steps(39,end)}12.570%{transform:translateX(444.6px);animation-timing-function:linear}27.805%{transform:translateX(444.6px);animation-timing-function:steps(39,end)}30.735%{transform:translateX(0)}100%{transform:translateX(0)}}.g0{animation:v0 17.07s step-end infinite}.k0{animation:t0 17.07s linear infinite}@keyframes v1{0%{opacity:0}33.372%{opacity:1}68.239%{opacity:0}100%{opacity:0}}@keyframes t1{0%{transform:translateX(0)}33.372%{transform:translateX(0);animation-timing-function:steps(45,end)}47.436%{transform:translateX(513.0px);animation-timing-function:linear}62.672%{transform:translateX(513.0px);animation-timing-function:steps(45,end)}65.602%{transform:translateX(0)}100%{transform:translateX(0)}}.g1{animation:v1 17.07s step-end infinite}.k1{animation:t1 17.07s linear infinite}@keyframes v2{0%{opacity:0}68.239%{opacity:1}100.000%{opacity:0}100%{opacity:0}}@keyframes t2{0%{transform:translateX(0)}68.239%{transform:translateX(0);animation-timing-function:steps(34,end)}79.197%{transform:translateX(387.6px);animation-timing-function:linear}94.433%{transform:translateX(387.6px);animation-timing-function:steps(34,end)}97.363%{transform:translateX(0)}100%{transform:translateX(0)}}.g2{animation:v2 17.07s step-end infinite}.k2{animation:t2 17.07s linear infinite}@media (prefers-reduced-motion: reduce){.g0{opacity:1}.g1{opacity:0}.g2{opacity:0}.k0{transform:translateX(444.6px)}}</style>
+<radialGradient id="gv" cx="88%" cy="-8%" r="78%"><stop offset="0" stop-color="#3B0A6B" stop-opacity="1"/>
+<stop offset=".55" stop-color="#3B0A6B" stop-opacity=".35"/><stop offset="1" stop-color="#3B0A6B" stop-opacity="0"/></radialGradient>
+<radialGradient id="gc" cx="4%" cy="118%" r="55%"><stop offset="0" stop-color="#00E5FF" stop-opacity=".16"/>
+<stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8568A5" stroke-width=".6"/></pattern>
+<linearGradient id="gf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".6" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity=".5"/></linearGradient>
+<mask id="gm"><rect width="900" height="300" fill="url(#gf)"/></mask>
+<linearGradient id="ng" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ECEAF4"/><stop offset=".62" stop-color="#ECEAF4"/><stop offset="1" stop-color="#00E5FF"/></linearGradient>
+<clipPath id="card"><rect x="1.5" y="1.5" width="897" height="297" rx="15"/></clipPath>
+<clipPath id="bar"><rect x="40" y="200" width="820" height="58" rx="12"/></clipPath>
+</defs><rect x=".75" y=".75" width="898.5" height="298.5" rx="16" fill="#050505" stroke="#3B0A6B" stroke-width="1.5"/>
+<g clip-path="url(#card)">
+<rect width="900" height="300" fill="url(#grid)" mask="url(#gm)"/>
+<rect class="glow" width="900" height="300" fill="url(#gv)"/>
+<rect width="900" height="300" fill="url(#gc)"/>
+</g>
+<path d="M40.0 45.0l4.5 4.5-4.5 4.5" fill="none" stroke="#00E5FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="52.0" y="54.0" class="m" font-size="12.5" fill="#9A93B5" textLength="90.0" lengthAdjust="spacing" >~/gargkapish</text>
+<circle class="ping" cx="614.5" cy="49.5" r="4" fill="#00E5FF"/>
+<circle cx="614.5" cy="49.5" r="4" fill="#00E5FF"/>
+<text x="627.5" y="54.0" class="m" font-size="12.5" fill="#ECEAF4" textLength="232.5" lengthAdjust="spacing" >open to summer 2027 internships</text>
+<text x="38" y="142" class="s" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#ng)">Kapish Garg</text>
+<text x="41" y="176" class="s" font-size="17" fill="#9A93B5">B.Tech CSE (Data Science) · Rishihood University · 2025–29</text>
+<rect x="40" y="200" width="820" height="58" rx="12" fill="#0F0617" stroke="#3B0A6B" stroke-width="1.5"/>
+<path d="M60 222l7.5 7.5-7.5 7.5" fill="none" stroke="#00E5FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#bar)"><g class="g0"><text class="m" x="92.0 103.4 114.8 126.2 137.6 149.0 160.4 171.8 183.2 194.6 206.0 217.4 228.8 240.2 251.6 263.0 274.4 285.8 297.2 308.6 320.0 331.4 342.8 354.2 365.6 377.0 388.4 399.8 411.2 422.6 434.0 445.4 456.8 468.2 479.6 491.0 502.4 513.8 525.2" y="236" font-size="19" fill="#ECEAF4">Backend &amp; DevOps engineer in the making</text><g class="k0"><rect x="90" y="210" width="768" height="36" fill="#0F0617"/><rect x="93" y="218" width="9.4" height="23" rx="1.5" fill="#00E5FF"/></g></g><g class="g1"><text class="m" x="92.0 103.4 114.8 126.2 137.6 149.0 160.4 171.8 183.2 194.6 206.0 217.4 228.8 240.2 251.6 263.0 274.4 285.8 297.2 308.6 320.0 331.4 342.8 354.2 365.6 377.0 388.4 399.8 411.2 422.6 434.0 445.4 456.8 468.2 479.6 491.0 502.4 513.8 525.2 536.6 548.0 559.4 570.8 582.2 593.6" y="236" font-size="19" fill="#ECEAF4">Two DSA problems a day, auto-logged to GitHub</text><g class="k1"><rect x="90" y="210" width="768" height="36" fill="#0F0617"/><rect x="93" y="218" width="9.4" height="23" rx="1.5" fill="#00E5FF"/></g></g><g class="g2"><text class="m" x="92.0 103.4 114.8 126.2 137.6 149.0 160.4 171.8 183.2 194.6 206.0 217.4 228.8 240.2 251.6 263.0 274.4 285.8 297.2 308.6 320.0 331.4 342.8 354.2 365.6 377.0 388.4 399.8 411.2 422.6 434.0 445.4 456.8 468.2" y="236" font-size="19" fill="#ECEAF4">Now building: a real-time chat app</text><g class="k2"><rect x="90" y="210" width="768" height="36" fill="#0F0617"/><rect x="93" y="218" width="9.4" height="23" rx="1.5" fill="#00E5FF"/></g></g></g>
+</svg>

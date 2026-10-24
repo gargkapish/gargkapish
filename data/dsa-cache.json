@@ -1,0 +1,22 @@
+{
+  "leetcode": {
+    "total": 113,
+    "easy": 71,
+    "medium": 41,
+    "hard": 1,
+    "synced": "2026-10-24"
+  },
+  "codeforces": {
+    "rating": 912,
+    "maxRating": 912,
+    "contests": 4,
+    "history": [
+      390,
+      625,
+      793,
+      912
+    ],
+    "solved": 29,
+    "synced": "2026-10-24"
+  }
+}

@@ -1,65 +1,65 @@
-# Hi, I'm Kapish Garg 👋
+<!--
+  Profile README for github.com/gargkapish.
+  Don't hand-edit the SVGs in assets/: change data/profile.json and the workflow rebuilds them.
+-->
 
-BTech CSE (Data Science) @ Rishihood University.
-
-Focused on **C++ / Algorithmic Problem Solving, Data Systems, and Quantitative Risk Modeling**.
-
----
-
-### 🛠️ Tech Stack & Domains
-
-| Category | Technologies & Concepts |
-| :--- | :--- |
-| **Languages** | C++, Python |
-| **Data & Analytics** | Pandas, NumPy, Matplotlib |
-| **Core Engineering** | Data Structures & Algorithms (DSA), Object-Oriented Design (OOD), Clean Architecture |
-| **Tools & Platforms** | Git, GitHub |
-| **Domain Focus** | Market Mechanics, Macroeconomic Trends, Geopolitical Risk Modeling |
-
----
-
-### 🧠 Problem Solving & Profiles
-
-Primary focus on algorithmic efficiency, graph theory, and dynamic programming in C++.
-
-<p align="left">
-  <a href="https://leetcode.com/u/BULebYjygI/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-BULebYjygI-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/kapishgarg2006" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-kapishgarg2006-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://codolio.com/profile/garg_ka" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-garg__ka-000000?style=flat-square" alt="Codolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kapish-garg-8335a0282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kapish%20Garg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 📌 Featured Repositories
-
-* [**Finanza Club Website (Website-New)**](https://github.com/finanza-club/Website-New) — Platform infrastructure, operational workflows, and data integration for university finance initiatives.
-
----
-
-### 🏛️ Leadership & Execution
-
-* **Head of Outreach & Sponsorships** | *Datacron Fest* — Directed corporate sponsorships, industry speaker pipelines, and cross-campus attendee acquisition for the flagship data science fest.
-* **Core Member** | *Finanza Club* — Researching global trade policy, macroeconomic shifts, and quantitative risk indicators.
-* **Backend & Technical Operations** | *FinSetu* — Managed end-to-end operational logistics for an international panel between Rishihood University and Central Wyoming College.
-* **Member** | *Career Advancement Cell* — Coordinated corporate placement operations and on-ground recruitment workflows.
-
----
-
-### 📊 GitHub Activity
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gargkapish&theme=tokyo-night&hide_border=true" alt="Kapish's Activity Graph" />
-</p> -->
+<img src="./assets/header.svg" width="100%" alt="Kapish Garg — Backend & DevOps engineer in the making. B.Tech CSE (Data Science), Rishihood University, 2025–29. Open to summer 2027 internships." />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargkapish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/gargkapish/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/gargkapish/"><img src="./assets/btn-leetcode.svg" height="40" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/kapishgarg2006"><img src="./assets/btn-codeforces.svg" height="40" alt="Codeforces" /></a>
+  <a href="https://codolio.com/profile/garg_ka"><img src="./assets/btn-codolio.svg" height="40" alt="Codolio" /></a>
+  <a href="mailto:kapishgarg2006@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
 </p>
+
+- Second-year B.Tech CSE (Data Science) at Rishihood University, heading into **backend and DevOps**.
+- Daily DSA. Every accepted LeetCode solution is archived automatically in [**DSA-Problems**](https://github.com/gargkapish/DSA-Problems).
+- Building four projects through DevClub's **DoomsDay** program, Oct 2026 → Jan 2027.
+- Open to **summer 2027 internships**, India or remote: [kapishgarg2006@gmail.com](mailto:kapishgarg2006@gmail.com)
+
+<br />
+
+<img src="./assets/building.svg" width="100%" alt="Currently building with DevClub DoomsDay: Chat App (building now), then Link Shortener, First ML Model and RAG Buddy." />
+
+<!-- building:start -->
+<!-- building:end -->
+
+<br />
+
+<a href="https://leetcode.com/u/gargkapish/"><img src="./assets/dsa.svg" width="100%" alt="DSA stats: LeetCode problems solved by difficulty and Codeforces rating history. Refreshed daily." /></a>
+
+<br />
+
+<img src="./assets/stack.svg" width="100%" alt="Stack. Using: C++, Python, pandas, NumPy, Matplotlib, Git, GitHub. Learning: Node.js, Express, MongoDB." />
+
+<br />
+
+<a href="https://finanzaclub.org"><img src="./assets/featured-finanza.svg" width="100%" alt="Featured: finanzaclub.org, the website of Finanza, Rishihood University's finance and investment club. Co-built; I maintain it." /></a>
+
+<br />
+
+<img src="./profile-3d-contrib/profile-3d.svg" width="100%" alt="3D contribution calendar with contribution stats and languages." />
+
+<br />
+
+<img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
+
+<br />
+
+<details>
+<summary><b>Beyond code</b></summary>
+<br />
+
+- **General Secretary, Finanza** (2026–27): Rishihood University's finance & investment club. I run its digital presence, including the website.
+- **Head of Outreach & Sponsorships, Datacron**: the university's data science fest. Corporate sponsorships, speaker pipeline, cross-campus attendees.
+
+</details>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-light.svg" />
+  <img src="./dist/snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution graph." />
+</picture>

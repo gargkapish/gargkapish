@@ -1,0 +1,67 @@
+{
+  "name": "Kapish Garg",
+  "github": "gargkapish",
+  "leetcode": "gargkapish",
+  "codeforces": "kapishgarg2006",
+  "tagline": "B.Tech CSE (Data Science) · Rishihood University · 2025–29",
+  "status": "open to summer 2027 internships",
+  "typing": [
+    "Backend & DevOps engineer in the making",
+    "Two DSA problems a day, auto-logged to GitHub",
+    "Now building: a real-time chat app"
+  ],
+
+  "palette": {
+    "void": "#050505",
+    "violet": "#3B0A6B",
+    "cyan": "#00E5FF",
+    "text": "#ECEAF4",
+    "muted": "#9A93B5"
+  },
+
+  "links": [
+    { "id": "linkedin",   "label": "LinkedIn",   "icon": "person",     "url": "https://www.linkedin.com/in/gargkapish/" },
+    { "id": "leetcode",   "label": "LeetCode",   "icon": "leetcode",   "url": "https://leetcode.com/u/gargkapish/" },
+    { "id": "codeforces", "label": "Codeforces", "icon": "codeforces", "url": "https://codeforces.com/profile/kapishgarg2006" },
+    { "id": "codolio",    "label": "Codolio",    "icon": "brackets",   "url": "https://codolio.com/profile/garg_ka" },
+    { "id": "email",      "label": "Email",      "icon": "mail",       "url": "mailto:kapishgarg2006@gmail.com" }
+  ],
+
+  "stack": {
+    "use": [
+      { "label": "C++",        "icon": "cpp" },
+      { "label": "Python",     "icon": "python" },
+      { "label": "pandas",     "icon": "pandas" },
+      { "label": "NumPy",      "icon": "numpy" },
+      { "label": "Matplotlib", "icon": "chart" },
+      { "label": "Git",        "icon": "git" },
+      { "label": "GitHub",     "icon": "github" }
+    ],
+    "learning": [
+      { "label": "Node.js",  "icon": "node" },
+      { "label": "Express",  "icon": "express" },
+      { "label": "MongoDB",  "icon": "mongodb" }
+    ]
+  },
+
+  "featured": [
+    {
+      "id": "finanza",
+      "title": "finanzaclub.org",
+      "url": "https://finanzaclub.org",
+      "desc": "Website of Finanza, Rishihood University's finance & investment club.",
+      "tags": ["co-built", "maintainer", "live since aug 2026"]
+    }
+  ],
+
+  "building": {
+    "program": "DevClub DoomsDay",
+    "window": "Oct 2026 → Jan 2027",
+    "projects": [
+      { "name": "Chat App",       "status": "building", "repo": "" },
+      { "name": "Link Shortener", "status": "next",     "repo": "" },
+      { "name": "First ML Model", "status": "next",     "repo": "" },
+      { "name": "RAG Buddy",      "status": "next",     "repo": "" }
+    ]
+  }
+}
