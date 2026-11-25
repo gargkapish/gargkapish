@@ -29,7 +29,7 @@ I co-founded [Apex Conclave](https://apexconclave.com), a student-led organisati
 [LinkedIn](https://www.linkedin.com/in/gargkapish/) · [LeetCode](https://leetcode.com/u/gargkapish/) · [Codeforces](https://codeforces.com/profile/kapishgarg2006) · [Codolio](https://codolio.com/profile/garg_ka) · [Email](mailto:kapishgarg2006@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-light.svg?v=2" />
-  <img src="./dist/snake-light.svg?v=2" width="100%" alt="Snake eating my GitHub contribution graph." />
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-light.svg?v=3" />
+  <img src="./dist/snake-light.svg?v=3" width="100%" alt="Snake eating my GitHub contribution graph." />
 </picture>
