@@ -1,4 +1,4 @@
-name: Refresh profile
+name: Refresh snake
 
 on:
   schedule:
@@ -7,8 +7,6 @@ on:
   push:
     branches: [main]
     paths:
-      - "data/**"
-      - "scripts/**"
       - ".github/workflows/profile.yml"
 
 permissions:
@@ -25,52 +23,13 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # Header, stack, buttons, featured cards, DSA card (live LeetCode + Codeforces), roadmap.
-      - name: Custom cards
-        run: python3 scripts/build_profile.py
-
-      # Every widget below is allowed to fail on its own; the rest still update.
-      - name: Streak card
-        continue-on-error: true
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          path: profile/streak.svg
-          options: |
-            {
-              "user": "${{ github.repository_owner }}",
-              "timezone": "Asia/Kolkata",
-              "card_width": "900",
-              "card_height": "200",
-              "border_radius": "16",
-              "background": "050505",
-              "border": "3B0A6B",
-              "stroke": "3B0A6B",
-              "ring": "00E5FF",
-              "fire": "00E5FF",
-              "currStreakNum": "ECEAF4",
-              "sideNums": "ECEAF4",
-              "currStreakLabel": "00E5FF",
-              "sideLabels": "9A93B5",
-              "dates": "9A93B5",
-              "excludeDaysLabel": "9A93B5"
-            }
-
-      - name: 3D contribution calendar
-        continue-on-error: true
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: data/3d.json
-
       - name: Contribution snake
-        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?color_snake=#00E5FF&color_dots=#200838,#3B0A6B,#294C97,#1B82BC,#0CB9E1
-            dist/snake-light.svg?color_snake=#02A2B4&color_dots=#ECE8F3,#B5A2C7,#7A589A,#3B0A6B,#250842
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Commit refreshed files
         run: |
@@ -81,6 +40,6 @@ jobs:
             echo "Nothing changed."
             exit 0
           fi
-          git commit -m "chore: refresh profile cards"
+          git commit -m "chore: refresh snake"
           git pull --rebase --autostash
           git push

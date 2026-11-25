@@ -1,65 +1,35 @@
-<!--
-  Profile README for github.com/gargkapish.
-  Don't hand-edit the SVGs in assets/: change data/profile.json and the workflow rebuilds them.
--->
+## Hi, I'm Kapish
 
-<img src="./assets/header.svg" width="100%" alt="Kapish Garg — Backend & DevOps engineer in the making. B.Tech CSE (Data Science), Rishihood University, 2025–29. Open to summer 2027 internships." />
+Second-year B.Tech CSE (Data Science) student at Rishihood University (2025–29). Right now I'm mostly learning backend and DevOps.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gargkapish/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/gargkapish/"><img src="./assets/btn-leetcode.svg" height="40" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/kapishgarg2006"><img src="./assets/btn-codeforces.svg" height="40" alt="Codeforces" /></a>
-  <a href="https://codolio.com/profile/garg_ka"><img src="./assets/btn-codolio.svg" height="40" alt="Codolio" /></a>
-  <a href="mailto:kapishgarg2006@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
-</p>
+I solve LeetCode problems most days. Every accepted solution gets pushed to [DSA-Problems](https://github.com/gargkapish/DSA-Problems) automatically.
 
-- Second-year B.Tech CSE (Data Science) at Rishihood University, heading into **backend and DevOps**.
-- Daily DSA. Every accepted LeetCode solution is archived automatically in [**DSA-Problems**](https://github.com/gargkapish/DSA-Problems).
-- Building four projects through DevClub's **DoomsDay** program, Oct 2026 → Jan 2027.
-- Open to **summer 2027 internships**, India or remote: [kapishgarg2006@gmail.com](mailto:kapishgarg2006@gmail.com)
+I'm looking for a summer 2027 internship, in India or remote. You can reach me at kapishgarg2006@gmail.com.
 
-<br />
+### What I'm building
 
-<img src="./assets/building.svg" width="100%" alt="Currently building with DevClub DoomsDay: Chat App (building now), then Link Shortener, First ML Model and RAG Buddy." />
+Four projects through DevClub's DoomsDay program, Oct 2026 to Jan 2027:
 
-<!-- building:start -->
-<!-- building:end -->
+- Chat App (working on it now)
+- Link Shortener
+- First ML Model
+- RAG Buddy
 
-<br />
+### Tools
 
-<a href="https://leetcode.com/u/gargkapish/"><img src="./assets/dsa.svg" width="100%" alt="DSA stats: LeetCode problems solved by difficulty and Codeforces rating history. Refreshed daily." /></a>
+- Using: C++, Python, pandas, NumPy, Matplotlib, Git, GitHub
+- Learning: Node.js, Express, MongoDB
 
-<br />
+### Apex Conclave
 
-<img src="./assets/stack.svg" width="100%" alt="Stack. Using: C++, Python, pandas, NumPy, Matplotlib, Git, GitHub. Learning: Node.js, Express, MongoDB." />
+I co-founded [Apex Conclave](https://apexconclave.com), a student-led organisation that runs competitions and events for students across India, and I built its website. Our first event was Diplovia, a two-day virtual Model United Nations with five committees, held in Nov 2026.
 
-<br />
+### Elsewhere
 
-<a href="https://finanzaclub.org"><img src="./assets/featured-finanza.svg" width="100%" alt="Featured: finanzaclub.org, the website of Finanza, Rishihood University's finance and investment club. Co-built; I maintain it." /></a>
-
-<br />
-
-<img src="./profile-3d-contrib/profile-3d.svg" width="100%" alt="3D contribution calendar with contribution stats and languages." />
-
-<br />
-
-<img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
-
-<br />
-
-<details>
-<summary><b>Beyond code</b></summary>
-<br />
-
-- **General Secretary, Finanza** (2026–27): Rishihood University's finance & investment club. I run its digital presence, including the website.
-- **Head of Outreach & Sponsorships, Datacron**: the university's data science fest. Corporate sponsorships, speaker pipeline, cross-campus attendees.
-
-</details>
-
-<br />
+[LinkedIn](https://www.linkedin.com/in/gargkapish/) · [LeetCode](https://leetcode.com/u/gargkapish/) · [Codeforces](https://codeforces.com/profile/kapishgarg2006) · [Codolio](https://codolio.com/profile/garg_ka) · [Email](mailto:kapishgarg2006@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./dist/snake-light.svg" />
-  <img src="./dist/snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution graph." />
+  <img src="./dist/snake-light.svg" width="100%" alt="Snake eating my GitHub contribution graph." />
 </picture>
